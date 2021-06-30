@@ -1,0 +1,32 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 5px;
+}
+#home{
+    height: 616px;
+    padding: 20px 100px;
+    padding-bottom: 6px;
+}
+#home::before{
+    height: 837px;
+}
+#home p{
+    font-size: 1.1rem;
+}
+#services{
+    flex-direction: column;
+}
+#about-section{
+    font-size: 1rem;
+    height: 407px;
+}
+.primary{
+    font-size: 1.4rem;
+}
+.btn{
+    font-size: 1rem;
+    padding: 4px 6px;
+}
